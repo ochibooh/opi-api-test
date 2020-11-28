@@ -1,1 +1,10 @@
-
+{
+    "sms": {
+        "statusCode": 200,
+        "message": "Success. Request accepted for processing"
+    },
+    "mail": {
+        "statusCode": 200,
+        "message": "Success. Request accepted for processing"
+    }
+}
